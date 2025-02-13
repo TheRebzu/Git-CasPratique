@@ -35,31 +35,31 @@ Si vous ne souhaitez pas mettre vos noms complets dans les commits et les noms d
 
 - Chaque élève aura une Modification à faire (création, mise à jour d'un fichier).
 
-### Elève 1
+### Amine
   - Modification : Créer un fichier index.html avec du contenu HTML simple
 
-### Elève 2
+### Célian
   - Modification : Créer un fichier index.html avec du contenu HTML différent de l'élève 1
 
-### Elève 3
+### Walid
   - Faire une modification dans le fichier README.md pour remplacer son contenu par les noms des contributeurs
-    - Spécifier quel élève fait quelle partie (`Elève 1 = Jane Doe`, etc.)
+    - Amine a fait la partie creation de fichier index.html Célian a fait la meme chpse avec un contenue different
 
 S'il n'y a pas de troisième élève, ces tâches sont à répartir entre les deux élèves présents.
 
 ### Mise en commun
 Dans l'étape suivante, résoudre tous les éventuels conflits qui adviennent. Si un conflit advient, le mentionner dans la description du commit (pas l'intitulé mais la description)
-  - Elève 1 : fusionner la branche de l'élève 2 avec sa branche via un merge sans fast-forward
-  - Elève 2 : fusionner la branche de l'élève 3 avec sa branche via un merge avec fast-forward
-  - Elève 3 : lorsque les élèves 1 et 2 ont fini et publié leurs merges, récupérer les deux branches, et les rebase sur la sienne dans l'ordre suivant : branche de l'élève 1 puis branche de l'élève 2
+  - Amine : fusionner la branche de l'élève 2 avec sa branche via un merge sans fast-forward
+  - Célian : fusionner la branche de l'élève 3 avec sa branche via un merge avec fast-forward
+  - Walid : lorsque les élèves 1 et 2 ont fini et publié leurs merges, récupérer les deux branches, et les rebase sur la sienne dans l'ordre suivant : branche de l'élève 1 puis branche de l'élève 2
 
 Une fois ces trois étapes effectuées, sur GitHub :
-  - Elève 3 : créer une Pull Request de sa branche vers master et requêter la validation des deux autres élèves
-  - Elève 2 : approuver la pull request
-  - Elève 1 : demander des changements dans la pull request avec un commentaire
-  - Elève 2 : répondre au commentaire de l'élève 1
-  - Elève 1 : résoudre le commentaire
-  - Elève 3 : fusionner les changements en utilisant le mode Squash and Merge proposé par GitHub
+  - Walid : créer une Pull Request de sa branche vers master et requêter la validation des deux autres élèves
+  - Célian : approuver la pull request
+  - Amine : demander des changements dans la pull request avec un commentaire
+  - Célian : répondre au commentaire de l'élève 1
+  - Amine : résoudre le commentaire
+  - Walid : fusionner les changements en utilisant le mode Squash and Merge proposé par GitHub
 
 # Note de fin
 
