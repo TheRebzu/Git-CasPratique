@@ -57,8 +57,8 @@ Une fois ces trois étapes effectuées, sur GitHub :
   - Walid : créer une Pull Request de sa branche vers master et requêter la validation des deux autres élèves
   - Célian : approuver la pull request
   - Amine : demander des changements dans la pull request avec un commentaire
-  - Célian : répondre au commentaire de l'élève 1
-  - Amine : résoudre le commentaire
+  - Célian : répondre au commentaire d'Amine  
+  - Amine : résoudre le commentaire    
   - Walid : fusionner les changements en utilisant le mode Squash and Merge proposé par GitHub
 
 # Note de fin
